@@ -140,6 +140,7 @@ AI-powered coding agents that help write, review, and maintain infrastructure co
 
 AI tools specifically designed for Kubernetes cluster management, troubleshooting, and operations.
 
+- [Devproof AI](https://github.com/devproof/devproofai) - Kubernetes-native platform for managed AI agent sessions that run as isolated pods, with an operator for self-hosted model serving and rule-based request routing.
 - [Glasskube](https://github.com/glasskube/glasskube) - Open-source Kubernetes package manager with AI-assisted package discovery and dependency resolution.
 - [Headlamp](https://github.com/headlamp-k8s/headlamp) - Extensible Kubernetes web UI with plugin architecture that supports AI-powered cluster visualization and management.
 - [K8sGPT](https://github.com/k8sgpt-ai/k8sgpt) - AI-powered Kubernetes troubleshooting and diagnostics, a CNCF Sandbox project that scans clusters for issues and explains them in plain English.
