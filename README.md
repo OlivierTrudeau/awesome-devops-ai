@@ -485,6 +485,7 @@ AI tools that enhance continuous integration and delivery pipelines.
 - [Momentic](https://momentic.ai/) - AI-native automated testing platform (YC) that writes, runs, and maintains end-to-end tests for CI/CD pipelines with self-healing capabilities.
 - [Stably AI](https://www.stably.ai/) - AI testing platform (YC, Vercel Ventures) that auto-writes, runs, and maintains diff-aware end-to-end tests directly in CI with automatic selector healing.
 - [testRigor](https://testrigor.com/) - AI-driven codeless testing platform that integrates into CI/CD pipelines with natural language test creation and intelligent test maintenance.
+- [Endtest](https://endtest.io/) - Agentic AI test automation platform for web and mobile apps, with autonomous test generation, CI/CD integrations, cloud test execution, and AI-powered failure analysis.
 - [Testsigma](https://github.com/testsigmahq/testsigma) - Open-source agentic AI test automation platform with self-healing tests, natural language test creation, and CI/CD integration.
 - [CodeRabbit](https://www.coderabbit.ai/) - AI code review tool that posts PR walkthroughs and inline suggestions across GitHub, GitLab, Azure DevOps, and Bitbucket, integrating 40+ linters and scanners.
 - [Greptile](https://www.greptile.com/) - AI code review platform that builds a graph index of the codebase and uses agent swarms to catch multi-file bugs and security risks on pull requests.
